@@ -1,9 +1,5 @@
 [
   {
-    "name": "Grab Gun",
-    "script": "require(5146659840).Dark_Eccentric(\"Dark_Eccentric\", \"client.Name\")"
-  },
-  {
     "name": "Saitama V1",
     "script": "require(14499140823)(client.Name, \"saitama2\")"
   },
