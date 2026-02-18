@@ -1,8 +1,6 @@
 {
-  "Premium": {
+  "whitelisted": {
     "1380129125": true,
     "0": true
-  },
-  "Standard": {
   }
 }
